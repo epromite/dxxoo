@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは〜 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>D X X O O here!</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/3o7bugvByW1ZfdGwJW/giphy.gif" />
+  <img src="https://i.ibb.co/BqWVBDD/ezgif-com-gif-maker.gif" />
 </p>
 
 - 🌱 I’m currently learning **nothing**.
