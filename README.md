@@ -8,7 +8,7 @@
 
 - 👀 I'm currently focusing on **JavaScript**.
 
-- 📝 I'm currently working on [`dxxoo/HisokaBOT-Whatsapp-Bot`](https://github.com/dxxoo/HisokaBOT-Whatsapp-Bot)
+- 📝 I'm currently working on [`dxxoo/New-Project`](https://github.com/dxxoo/New-Project)
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
